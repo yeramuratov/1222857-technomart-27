@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Ернар Муратов](https://up.htmlacademy.ru/htmlcss/27/user/1222857).
-* Наставник: `Неизвестно`.
+* Наставник: [Саяжана Онласын](https://htmlacademy.ru/profile/crepiks).
 
 ---
 
